@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fast-food-app-with-cart/static/css/main.f8a8e60e.css",
+    "main.js": "/fast-food-app-with-cart/static/js/main.91dd9aee.js",
+    "static/media/meals.jpg": "/fast-food-app-with-cart/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/fast-food-app-with-cart/index.html",
+    "main.f8a8e60e.css.map": "/fast-food-app-with-cart/static/css/main.f8a8e60e.css.map",
+    "main.91dd9aee.js.map": "/fast-food-app-with-cart/static/js/main.91dd9aee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8a8e60e.css",
+    "static/js/main.91dd9aee.js"
+  ]
+}
